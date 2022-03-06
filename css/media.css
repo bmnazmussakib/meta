@@ -6,6 +6,36 @@
         margin-top: 40px;
     }
     /* Banner end */
+
+    /* counter start */
+    .counter-container {
+        margin-top: 220px;
+    }
+
+    .time {
+        font-size: 1.2em !important;
+    }
+
+    .counter-wrapper .time {
+        width: 2.5rem;
+        height: 2.5rem;
+        padding: 9px 0px;
+    }
+
+    .counter-wrapper{
+        margin-bottom: 50px;
+    }
+
+    .wrapper .label {
+        margin-top: 9px;
+        color: #fff;
+        text-transform: capitalize;
+        font-size: 12px;
+        text-align: center;
+    }
+    /* counter end */
+
+
     /* For Meta start */
     .card {
         width: 80%;
@@ -335,6 +365,27 @@
         margin-top: 60px;
     }
     /* Banner end */
+
+    /* counter start */
+    .counter-container {
+        margin-top: 220px;
+    }
+
+    .time {
+        font-size: 3em !important;
+    }
+
+    .counter-wrapper .time {
+        width: 6rem;
+        height: 6rem;
+        padding: 22px 0px;
+    }
+
+    .counter-wrapper{
+        margin-bottom: 50px;
+    }
+    /* counter end */
+
     /* For Meta start */
     .card {}
     .card-title {
@@ -404,6 +455,24 @@
         margin-top: 100px;
     }
     /* Banner end */
+
+    /* counter start */
+    .counter-container {
+        margin-top: 170px;
+    }
+
+    .time {
+        font-size: 2.2em !important;
+    }
+
+    .counter-wrapper .time {
+        width: 4.2rem;
+        height: 4rem;
+        padding: 12px 0px;
+    }
+    /* counter end */
+
+
     /* About us start */
     .about-us-img {
         height: 100%;
